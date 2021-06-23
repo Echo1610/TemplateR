@@ -1,5 +1,4 @@
 # TemplateR
----
 
 An R project to help automate some procedures in project setup, maintaining and test.
 
